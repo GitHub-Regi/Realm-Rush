@@ -4929,6 +4929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cost: 50
+  buildDelay: 1
 --- !u!4 &7260905392947315573 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3144582324300694500, guid: 8a965e088bae16643aab3d07ccfd5e2e, type: 3}
